@@ -6,4 +6,5 @@ The packet is include:
 4. already import caffe,tensorflow,mxnet,keras,cv2 for the python
 
 In a words,now you have a complete linux with a GUI running in the android and programe your ai code in it. 
-will be release beta V0.1 soon
+
+Will be release beta V0.1 soon
