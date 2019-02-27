@@ -8,7 +8,7 @@
     <img src="aiframe.png", width="480">
 </p>
 
-In a words,now you have a complete linux with a GUI running in the android(real linux running in the busybox and not virtul env... so it more faster and almost real-time.) and program your ai code in it. 
+In a words,now you have a complete linux with a GUI running in the android(real linux running in the busybox and not virtul env... so it more faster and almost real-time.) and program your AI code in it. 
 <p align="center">
     <img src="pose_ai.gif", width="480">
 </p>
