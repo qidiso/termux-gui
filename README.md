@@ -1,4 +1,4 @@
-The packet is include: Graphical User Interface in Termux,no need VNC、SDL...
+<b>The packet is include</b>: (Graphical User Interface in Termux,no need VNC、SDL...)
 
 1. A GUI-App.
 2. you can open the camera in the termux-linux,and show in the GUI-App
