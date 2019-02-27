@@ -10,7 +10,7 @@ The packet is include: Graphical User Interface in Termux,no need VNC、SDL...
 
 In a words,now you have a complete linux with a GUI running in the android(real linux running in the busybox and not virtul env... so it more faster and almost real-time.) and program your ai code in it. 
 <p align="center">
-    <img src="doc/media/pose_ai.gif", width="480">
+    <img src="pose_ai.gif", width="480">
 </p>
 <b>Will be release beta V0.1 soon...</b> 
 (all is done, but too large ,  need delete some useless files )
